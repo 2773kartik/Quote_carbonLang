@@ -9,3 +9,4 @@ After the setup, send the output to an HTML file as follows
 quote.carbon > index.html
 
 The output file would display some random quote from an API
+![Alt text](/img.jpg?raw=true)
